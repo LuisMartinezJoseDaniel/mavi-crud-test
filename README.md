@@ -33,7 +33,7 @@ git clone https://github.com/LuisMartinezJoseDaniel/mavi-crud-test.git
 
 ### Correr el ambiente de vite
 ```
-  npm run vite
+  npm run dev
 ```
 ### Correr la app de Laravel
 ```
